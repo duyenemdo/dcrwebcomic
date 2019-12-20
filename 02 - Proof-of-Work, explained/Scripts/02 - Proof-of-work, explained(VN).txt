@@ -1,0 +1,33 @@
+01
+Người kể: Việc bảo mật một blockchain đòi hỏi rất nhiều công việc và... chứng minh về nó. Lớp bảo mật đầu tiên của Decred hoạt động như thế nào?
+Cảnh: Một lối vào một hang động tối. Có dây cáp đi vào.
+Tiêu đề lớn: Proof-of-Work, giải thích
+
+02
+Người kể: Những người làm việc để giữ an ninh mạng và xử lý các giao dịch được gọi là người khai thác.
+Cảnh: Toàn cảnh người khai thác Vé với mũ bảo hiểm, cờ lê và khối rubik (các câu đố). Một số mặt hàng có thể có ít mô tả.
+
+03
+Người kể: Nhưng đây không phải là những người khai thác thường xuyên của bạn. Họ sử dụng máy tính để giải câu đố để đổi tiền mới.
+Cảnh: Cận cảnh một cỗ máy kỳ lạ giải một khối rubik. Người khai thác đang đưa khối lập phương vào máy.
+
+04
+Người kể: Ngay cả máy tính cao cấp cũng phải hoạt động trong vài phút để tìm giải pháp. Chi phí điện và thời gian giữ cho mạng an toàn.
+Cảnh: Bảng điều khiển máy lạ với đồng hồ đo độ khó và thời gian giải khối.
+
+05
+Người kể: Khi họ giải quyết nó, họ được trả tiền bởi mạng và khối mới được thêm vào blockchain.
+Cảnh: Mở khối rubik với tiền xu bên trong.
+Tùy chọn cảnh 2: Tiền xu nằm trong một đôi tay + Blockchain của khối rubik sáng bóng
+
+06
+Người kể chuyện: Tất cả người đào coin cạnh tranh để trở thành người đầu tiên tìm ra giải pháp. Khi được giải quyết, cuộc đua bắt đầu một lần nữa với một khối mới với các giao dịch đang chờ xử lý.
+Cảnh: Một người khai thác nâng một đồng xu sáng bóng và khối rubik. Những người khai thác khác rất buồn và hình khối của họ chuyển sang màu xám.
+
+07
+Bởi vì khai thác đòi hỏi rất nhiều công việc, những người muốn gian lận mạng phải đầu tư hàng tấn tài nguyên để hack nó.
+Cảnh: Một tổ hacker. Anh ta đang nhìn chằm chằm vào màn hình PC với biểu tượng khiên/bảo vệ/lỗi. Căn phòng tối. Trên tường treo mặt nạ Guy Fawkes.
+
+08
+Người kể chuyện: Có, người khai thác xử lý giao dịch và bảo mật mạng. Nhưng hãy nhớ rằng, sức mạnh lớn thì đi kèm trách nhiệm lớn
+Cảnh: Một người khai thác với một cái nhìn hùng vĩ. Anh ta có vẻ to lớn và mạnh mẽ. Sức mạnh của anh làm cho khuôn mặt anh tỏa sáng. Những tấm vé khác phía sau trông anh lo lắng về toàn bộ tình hình.
