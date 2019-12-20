@@ -11,9 +11,9 @@
 
 ## 02
 
-**Narrator:** "Centralized exchanges make its users life easy, but are failing to deal with market manipulation, solve security issues, and lower the fees."
+**Người kể:** "Trao đổi tập trung làm cho cuộc sống của người dùng dễ dàng, nhưng không giải quyết được thao túng thị trường, giải quyết các vấn đề bảo mật và giảm phí."
 
-**Setting:** There is a big building from CEX company. Looking at the windows you can see the different problems it faces. Close-ups show each case.
+**Cài đặt:** Có một tòa nhà lớn từ công ty CEX. Nhìn vào các cửa sổ, bạn có thể thấy các vấn đề khác nhau mà nó phải đối mặt. Cận cảnh cho thấy từng trường hợp.
 
 
 
@@ -27,9 +27,9 @@
 
 ## 04
 
-**Narrator:** "But without exchanges, users face a big problem: Who sends the money first? Between unconnected blockchains, there is no way to ensure honesty."
+**Người kể:** "Nhưng không có trao đổi, người dùng phải đối mặt với một vấn đề lớn: Ai gửi tiền trước? Giữa các blockchains không liên kết, không có cách nào để đảm bảo tính trung thực."
 
-**Setting:** Two tickets look at each other. They don't trust the other ticket because he could scam them at any time. They hold DCR and LTC.
+**Cài đặt:** Hai vé nhìn nhau. Họ không tin vào tấm vé kia vì anh ta có thể lừa đảo họ bất cứ lúc nào. Họ nắm giữ DCR và LTC.
 
 
 
@@ -43,7 +43,7 @@
 
 ## 06
 
-**Người kể:** "Anyone will be able to set up a DEX node. More nodes means a stronger DEX network!"
+**Người kể:** "Bất cứ ai cũng sẽ có thể thiết lập một nút DEX. Nhiều nút hơn có nghĩa là mạng DEX mạnh hơn!"
 
 **Cài đặt:** Một vé đã gắn một giá đỡ nút DEX nhỏ. Nó không nên quá trang hoàng cũng không quá rẻ tiền.
 
