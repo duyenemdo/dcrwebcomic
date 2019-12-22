@@ -2,47 +2,47 @@
 
 ![stakey-proposing-epic](https://raw.githubusercontent.com/pLabarta/dcrwebcomic/master/Proposal/img/decred_jumbo.png)
 
-Hello, we are @**pablito** and @**nachito** (on Matrix channels). We have been contributing to Decred since mid 2019. It all started when @**elian** visited Argentina and introduced us to the project, its vision and values. From the first day we knew we wanted to contribute to the project from our communications background and at the same time ditched every “vanilla” strategy to focus on creative solutions for increasing awareness. We ended up creating the DCR Comic, a visual guide to Decred.
+Xin chào, chúng tôi là @**pablito** và @**nachito** (trên Matrix channels). Chúng tôi đã đóng góp cho Decred từ giữa năm 2019. Tất cả bắt đầu khi @**elian** đến thăm Argentina và giới thiệu cho chúng tôi về dự án, tầm nhìn và giá trị của nó. Ngay từ ngày đầu tiên, chúng tôi đã biết rằng chúng tôi muốn đóng góp cho dự án từ nền tảng truyền thông của mình và đồng thời từ bỏ mọi chiến lược của Vanilla, để tập trung vào các giải pháp sáng tạo nhằm tăng cường nhận thức. Chúng tôi đã kết thúc việc tạo ra DCR Comic, một hướng dẫn trực quan cho Decred.
 
-We have already developed three issues of the webcomic and created Twitter (@**dcrcomic**) & Instagram (@**dcrcomic**) accounts for the DCRComic. @pablito is the writer, he deals with research, scripts, storyboarding and messaging. @nachito is the artist and design lead, he is in charge of sketching, storyboarding and making the comic eye-catchy so we can get the reader’s attention.
+Chúng tôi đã phát triển ba vấn đề của webcomic và tạo tài khoản Twitter(@**dcrcomic**) & Instagram(@**dcrcomic**) cho DCRComic. @pablito là tác , anh ấy làm việc về mảng nghiên cứu, viết kịch bản, và tin nhắn. @nachito là họa sĩ và trưởng nhóm thiết kế, anh ấy chịu trách nhiệm phác thảo, xây dựng cốt truyện và làm cho truyện tranh trở nên bắt mắt để chúng tôi có thể thu hút sự chú ý của người đọc.
 
-## **Executive Summary**
+## **Tóm tắt**
 
 ![old-stakey](https://raw.githubusercontent.com/pLabarta/dcrwebcomic/master/Proposal/img/solos-01.png)
 
-This comic proposal centers on a biweekly webcomic that translates Decred’s technical documentation, developments and Politeia projects to a compelling visual narrative. We think a webcomic that can be adapted to **multiple** **formats**, even **animated** scenes or fully animated **videos**, could provide the perfect channel to reach a **broader** **audience**, the **younger** **generation** and those who prefer visual information platforms such as **YouTube** or **Instagram** over text-based ones like Medium and Twitter where the Decred community has already doubled up its presence.
+Đề xuất truyện tranh này tập trung vào một webcomic hai tuần dịch các tài liệu kỹ thuật một lần, phát triển và các dự án Politeia của Decredia thành một bài tường thuật trực quan hấp dẫn. Chúng tôi nghĩ rằng một webcomic có thể được điều chỉnh theo **nhiều** **định dạng**, thậm chí **cảnh** hoạt hình hoặc video **hoạt hình đầy đủ**, có thể cung cấp kênh hoàn hảo để tiếp cận **đến nhiều** **người hơn**, **thế hệ** **trẻ hơn** và những người thích các nền tảng thông tin trực quan như **YouTube** hoặc **Instagram** trên các nền tảng văn bản như Medium và Twitter nơi cộng đồng Decred có đã tăng gấp đôi sự hiện diện của nó.
 
-## **Why?**
+## **Tại sao?**
 
 ![excited-stakey](https://raw.githubusercontent.com/pLabarta/dcrwebcomic/master/Proposal/img/solos-02.png)
 
-Decred’s developers are doing an amazing work and **creating new exciting solutions** for some of the main issues in the crypto space, from privacy to trustless trading, but there’s much more to be done and this means more coding hands are always desired. **To bring more people into the project, we need to reach further.**
+Các nhà phát triển của Decred đang làm một công việc tuyệt vời và **tạo ra các giải pháp thú vị mới** cho một số vấn đề chính trong không gian tiền điện tử, từ quyền riêng tư đến giao dịch không tin cậy, nhưng có nhiều việc phải làm và điều này có nghĩa là luôn mong muốn nhiều hơn. **Để đưa nhiều người hơn vào dự án, chúng tôi cần tiếp cận nhiều hơn.**
 
-As mentioned above, Decred has already developed a **strong presence** in **crypto**-**twitter** and **Medium**, but not so much in other (more mainstream) social media platforms.
+Như đã đề cập ở trên, Decred đã phát triển **sự hiện diện mạnh mẽ** trong **crypto**-**twitter** và **Medium**, nhưng không nhiều trong các nền tảng truyền thông xã hội(chính thống hơn) khác.
 
-**Instagram** is becoming the most used social media platform in **South** **America** and **Telegram**, **WhatsApp** and other messaging apps have already developed a **wide group-chat ecosystem** where visual content, especially static content like JPG memes, is king. Moreover, **YouTube** is the preferred social network by the younger generation.
+**Instagram** đang trở thành nền tảng truyền thông xã hội được sử dụng nhiều nhất ở **Nam** **Mỹ** và **Telegram**, **WhatsApp** và các ứng dụng nhắn tin khác đã phát triển **một hệ sinh thái trò chuyện nhóm rộng** trong đó trực quan nội dung, đặc biệt là nội dung tĩnh như memes JPG, là vua. Hơn nữa, **YouTube** là mạng xã hội ưa thích của thế hệ trẻ.
 
-According to[ latest stats](https://www.pewresearch.org/fact-tank/2019/04/10/share-of-u-s-adults-using-social-media-including-facebook-is-mostly-unchanged-since-2018/) published by the **Pew Research Center** about social media usage, Facebook (69%) and YouTube (73%) are the most widely used online platforms among U.S. adults. Instagram is used by 37% but has showed the most growth in the last 3 years. Twitter is lagging behind with just 22% and has declined since 2018. Among **18-to-24-year-old** Instagram’s popularity has reached 75% and YouTube is leading the way with 90%. Twitter usage among this age group is at 44%.
+Theo [số liệu thống kê mới nhất](https://www.pewresearch.org/fact-tank/2019/04/10/share-of-u-s-adults-using-social-media-including-facebook-is-mostly-unchanged-since-2018/) được xuất bản bởi **Trung tâm nghiên cứu Pew** về việc sử dụng phương tiện truyền thông xã hội, Facebook(69%) và YouTube(73%) là những nền tảng trực tuyến được sử dụng rộng rãi nhất trong số người trưởng thành ở Hoa Kỳ. Instagram được sử dụng bởi 37% nhưng đã cho thấy sự tăng trưởng nhất trong 3 năm qua. Twitter đang bị tụt lại phía sau với chỉ 22% và đã giảm kể từ năm 2018. Trong số người sử dụng Instagram từ độ tuổi **18 đến 24 tuổi** đã đạt 75% và YouTube đang dẫn đầu với 90%. Sử dụng Twitter trong nhóm tuổi này là 44%.
 
-In **Brazil**, LATAM’s most populous country and one of Decred’s main development hubs, **95% of internet users use YouTube, 89% use WhatsApp and 71% use Instagram**, but only 43% use Twitter; according to the 2019 Global Web Index published by Hootsuite.
+Ở **Brazil**, Quốc gia đông dân nhất LATAM, và là một trong những trung tâm phát triển chính của Decred, **95% người dùng internet sử dụng YouTube, 89% sử dụng WhatsApp và 71% sử dụng Instagram**, nhưng chỉ 43% sử dụng Twitter; theo Chỉ số web toàn cầu 2019 do Hootsuite công bố.
 
-Social media presence on Instagram, YouTube and most messaging platforms is a must. The webcomic and its derivatives present an opportunity to widen Decred's reach and explore how visual communication can help explain cryptocurrencies, blockchain technology and how decentralized governance works.
+Sự hiện diện của phương tiện truyền thông xã hội trên Instagram, YouTube và hầu hết các nền tảng nhắn tin là điều bắt buộc. Webcomic và các công cụ phái sinh của nó mang đến cơ hội mở rộng phạm vi của Decred và khám phá cách giao tiếp trực quan có thể giúp giải thích các loại tiền điện tử, công nghệ blockchain và cách quản trị phi tập trung hoạt động.
 
-## **Who?**
+## **Ai?**
 
-@**nachito** is the lead designer. He has more than 10 years of experience in Graphic Design. He entered the crypto space worried about user experience and ended up doing much more, from illustrations to logo design. He will be in charge of creating catchy visuals that earn us the reader's attention and making sure every comic fits into Decred's visual system.
+@**nachito** là nhà thiết kế chính. Anh có hơn 10 năm kinh nghiệm trong Thiết kế đồ họa. Anh bước vào không gian tiền điện tử vì lo lắng về trải nghiệm người dùng và cuối cùng đã làm được nhiều hơn thế, từ minh họa đến thiết kế logo. Anh ấy sẽ chịu trách nhiệm tạo ra những hình ảnh hấp dẫn thu hút sự chú ý của độc giả và đảm bảo mọi truyện tranh đều phù hợp với hệ thống hình ảnh của Decred.
 
-Other contributions: Decred: [Gobernando Juntos talk slides](https://github.com/Reidiojed/dcrpresentation), [DCR/Stakey shirts and stickers for Blockchain Summit UY](https://github.com/pLabarta/dcrwebcomic/blob/master/Proposal/img/photo_2019-09-18_14-56-19.jpg), [Social Media templates for Campus Party Goias](https://raw.githubusercontent.com/pLabarta/dcrwebcomic/master/Proposal/img/photo_2019-09-18_15-00-28.jpg), [I WANT TO STAKE Poster](https://raw.githubusercontent.com/pLabarta/dcrwebcomic/master/Swag/Poster/JPGs/A3.jpg)
+Những đóng góp khác: Decred: [Gobernando Juntos talk slides](https://github.com/Reidiojed/dcrpresentation), [Áo sơ mi và nhãn dán DCR/Stakey cho Blockchain Summit UY](https://github.com/pLabarta/dcrwebcomic/blob/master/Proposal/img/photo_2019-09-18_14-56-19.jpg), [Các mẫu phương tiện truyền thông xã hội cho Tiệc Campus Goias](https://raw.githubusercontent.com/pLabarta/dcrwebcomic/master/Proposal/img/photo_2019-09-18_15-00-28.jpg), [Poster: I WANT TO STAKE](https://raw.githubusercontent.com/pLabarta/dcrwebcomic/master/Swag/Poster/JPGs/A3.jpg)
 
-@**pablito** is the writer. He covered technology and business issues for two of Argentina's major newspapers but decided to dive deeper into the crypto industry. He is not a programmer but has experience with web development and loves crafting python hacks during the weekend. He is in charge of researching new topics, writing scripts, and making sure the message is clear at every step of the comic's development.
+@**pablito** là tác gia. Ông đã đề cập đến các vấn đề công nghệ và kinh doanh cho hai tờ báo lớn của Argentina nhưng quyết định đi sâu hơn vào ngành công nghiệp tiền điện tử. Anh ấy không phải là một lập trình viên nhưng có kinh nghiệm phát triển web và yêu thích việc hack python vào cuối tuần. Ông phụ trách nghiên cứu các chủ đề mới, viết kịch bản và đảm bảo thông điệp rõ ràng ở mỗi bước phát triển của truyện tranh.
 
-Other contributions: [Rasp-berry-cred: my experience setting up a DCR node](https://medium.com/crypto-rocket-blog/my-experience-setting-up-a-decred-full-node-8a9bbf55bc30), [CoinTelegraph interview about Decred](https://es.cointelegraph.com/news/it-is-estimated-that-decred-cryptocurrency-moves-about-usd-4-million-per-day-in-transactions)
+Những đóng góp khác: [Rasp-berry-cred: kinh nghiệm của tôi khi thiết lập nút DCR](https://medium.com/crypto-rocket-blog/my-experience-setting-up-a-decred-full-node-8a9bbf55bc30), [Cuộc phỏng vấn của CoinTelegraph về Decred](https://es.cointelegraph.com/news/it-is-estimated-that-decred-cryptocurrency-moves-about-usd-4-million-per-day-in-transactions)
 
-## **What does the community get?**
+## **Cộng đồng nhận được gì?**
 
 ![prososal-stakey](https://raw.githubusercontent.com/pLabarta/dcrwebcomic/master/Proposal/img/solos-03.png)
 
-A [GitHub repo](https://github.com/pLabarta/dcrwebcomic) with every biweekly comic and every asset used in the making. We will also coordinate translations, work towards expanding the webcomic towards new formats as needed and distribute the comic in every social media platform we can.
+Một [GitHub repo](https://github.com/pLabarta/dcrwebcomic) với mỗi truyện tranh xuất  hai tuần một lần và mọi tài sản được sử dụng trong quá trình thực hiện. Chúng tôi cũng sẽ phối hợp các bản dịch, hướng tới việc mở rộng webcomic theo các định dạng mới khi cần và phân phối truyện tranh trên mọi nền tảng truyền thông xã hội mà chúng tôi có thể.
 
 We are planning to publish on [Twitter](https://twitter.com/DCRComic/), [Instagram](https://www.instagram.com/dcrcomic/), [Medium](https://medium.com/dcr-comic), Reddit, messaging platforms like Telegram and Matrix, and region-specific channels like ChainNode (China).
 
