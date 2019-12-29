@@ -1,15 +1,15 @@
-# Webcomic Update #01
+# Cập nhật Webcomic #01
 
-After reading the feedback we got from the people in Matrix, we developed a short-term roadmap and decided on some guidelines for future issues.
+Sau khi đọc phản hồi chúng tôi nhận được từ những người trong Matrix, chúng tôi đã phát triển một lộ trình ngắn hạn và quyết định một số hướng dẫn cho các vấn đề trong tương lai.
 
-Characters: we will move forward with the “Ticket Universe” approach, meaning that every character will be a Ticket like Stakey, but they won’t be referred to as Stakey.
+Các nhân vật: chúng ta sẽ tiến lên phía trước với cách tiếp cận của "Ticket Universe", nghĩa là mọi nhân vật sẽ là một Ticket giống như Stakey, nhưng họ đã thắng được gọi là Stakey.
 
-Accuracy: we will try to make the narrator as accurate as possible with the help of the community. This may make it less newbie friendly, but we are assuming most readers at this stage will have some basic understanding of cryptocurrencies. We will talk to the broader altcoin community.
+Độ chính xác: chúng tôi sẽ cố gắng làm cho người kể chuyện chính xác nhất có thể với sự giúp đỡ của cộng đồng. Điều này có thể làm cho nó ít thân thiện với người mới hơn, nhưng chúng tôi cho rằng hầu hết độc giả ở giai đoạn này sẽ có một số hiểu biết cơ bản về tiền điện tử. Chúng tôi sẽ nói chuyện với cộng đồng altcoin rộng lớn hơn.
 
-Workflow: we put together a Webcomic Lifecycle that makes translating and editing the comic more efficient by focusing first on closing the English version and only opening up for translations once it is finished.
+Quy trình làm việc: chúng tôi kết hợp Vòng đời Webcomic giúp dịch và chỉnh sửa truyện tranh hiệu quả hơn bằng cách tập trung đầu tiên vào việc đóng phiên bản tiếng Anh và chỉ mở ra để dịch sau khi hoàn thành.
 
-Voting for episodes: we are trying to decentralize the roadmap by enabling anyone to vote on what topics should be covered next. As for the next ones, we have taken into account feedback the community gave us through Matrix and Github.
+Bỏ phiếu cho các tập: chúng tôi đang cố gắng phân cấp lộ trình bằng cách cho phép bất cứ ai bỏ phiếu về chủ đề nào sẽ được đề cập tiếp theo. Đối với những người tiếp theo, chúng tôi đã tính đến phản hồi mà cộng đồng đã cho chúng tôi thông qua Matrix và Github.
 
-The English and Spanish versions of the first webcomic are ready! You can get the jpeg export [here](https://github.com/pLabarta/dcrwebcomic/tree/master/01%20-%20The%20way%20of%20the%20Contractor/Images) or export your own using the AI files.
+Các phiên bản tiếng Anh và tiếng Tây Ban Nha của webcomic đầu tiên đã sẵn sàng! Bạn có thể nhận bản xuất jpeg [tại đây](https://github.com/pLabarta/dcrwebcomic/tree/master/01%20-%20The%20way%20of%20the%20Contractor/Images) hoặc xuất khẩu của riêng bạn bằng AI các tập tin.
 
-We are now brainstorming three more episodes. Many asked for one about the hybrid PoS/PoW system. To explain it in full detail we will develop a three part webcomic. The first one will explain how Proof-of-Work works, the second one will dive into the advantages of Proof-of-Stake, and the last one will put everything together to wrap the series with Decred’s hybrid approach.
+Bây giờ chúng tôi đang động não thêm ba tập nữa. Nhiều người hỏi về hệ thống PoS/PoW lai. Để giải thích nó một cách chi tiết, chúng tôi sẽ phát triển một webcomic ba phần. Phần đầu tiên sẽ giải thích cách Proof-of-Work hoạt động, phần thứ hai sẽ khai thác những lợi thế của Proof-of-Stake, và phần cuối cùng sẽ kết hợp mọi thứ lại với nhau để kết hợp chuỗi với phương pháp lai Decred.
