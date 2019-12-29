@@ -1,55 +1,55 @@
-# DCR Comic update #01
+# Cập nhật truyện tranh DCR #01
 
-This is our second update, the first one since the proposal passed. We have exciting news to share. If are on a rush, there's a TLDR at the bottom.
+Đây là bản cập nhật thứ hai của chúng tôi, bản cập nhật đầu tiên kể từ khi đề xuất được thông qua. Chúng tôi có tin tức thú vị để chia sẻ. Nếu đang vội, sẽ có TLDR ở phía dưới.
 
-## Project health
+## Tiến độ dự án
 
-It took us some time to get back on track with the comics, but we are proud about the fourth one, Proof-of-Stakey, and excited about the coming issue on privacy that features ninjas and the mystic ticket stream. With our productivity is back to normal levels, curiosity is picking up the pace. We are trying out new stuff. Will share as soon as possible (keep reading to know more).
+Chúng tôi đã mất một thời gian để quay lại với truyện tranh, nhưng chúng tôi tự hào về phần thứ tư, Proof-of-Stakey, và vui mừng về vấn đề sắp tới về quyền riêng tư có ninja và dòng vé bí ẩn. Với năng suất của chúng tôi đã trở lại mức bình thường, sự tò mò đang gia tăng. Chúng tôi đang thử những thứ mới. Sẽ chia sẻ sớm nhất có thể (tiếp tục đọc để biết thêm).
 
-## Comics
+## Truyện tranh
 
-1, 2 and 3 got revamped while we worked and discussed the proposal. They've also been translated to Spanish, Chinese, French, Arabic and Russian. We would love to have Portuguese, Japanese and Korean translations.
+1, 2 và 3 đã được tân trang trong khi chúng tôi làm việc và thảo luận về đề xuất. Họ cũng đã được dịch sang tiếng Tây Ban Nha, Trung Quốc, Pháp, Ả Rập và Nga. Chúng tôi rất thích có bản dịch tiếng Bồ Đào Nha, Nhật Bản và Hàn Quốc.
 
-4 was published a few weeks ago. Proof-of-Stakey explains how Decred's PoS component works and the how stakeholders can participate in the decision making process. Proof-of-Stakey is now  up for translations (translators: get in touch or just send a PR on GitHub. PS: we love you all).
+4 đã được xuất bản một vài tuần trước. Proof-of-Stakey giải thích cách thức hoạt động của thành phần PoS của Decred và cách các bên liên quan có thể tham gia vào quá trình ra quyết định. Proof-of-Stakey hiện đã có bản dịch (người dịch: hãy liên lạc hoặc chỉ gửi PR trên GitHub. PS: Chúng tôi yêu tất cả các bạn).
 
-All four comics can also be found in square format (for platforms such as Instagram) in the GitHub repo, under the images folder inside each comic.
+Tất cả bốn truyện tranh cũng có thể được tìm thấy ở định dạng vuông (đối với các nền tảng như Instagram) trong repo GitHub, dưới thư mục hình ảnh bên trong mỗi truyện tranh.
 
-5th comic about Privacy was published a just now!
+Truyện tranh thứ 5 về Quyền riêng tư vừa được xuất bản!
 
-## Assets
+## Tài sản
 
-We've started separating and classifying graphic assets. It began as a means to make social media posting easier, but we are trying to keep it public and organized so that other community members can use them. Maybe Telegram stickers.
+Chúng tôi đã bắt đầu phân tách và phân loại tài sản đồ họa. Nó bắt đầu như một phương tiện để làm cho việc đăng tải phương tiện truyền thông xã hội dễ dàng hơn, nhưng chúng tôi đang cố gắng giữ cho nó công khai và có tổ chức để các thành viên khác trong cộng đồng có thể sử dụng chúng. Có thể dán Telegram.
 
-## New site!
+## Trang web mới!
 
-We are putting up a site for DCR Comic because we felt it needed a home, and some pointed out that having everything in one site would be quite handy. It's a simple Pelican/Jinja2 static site. It is already up and running at [dcrcomic.org](https://dcrcomic.org/)
+Chúng tôi đang thiết lập một trang web cho DCR Comic vì chúng tôi cảm thấy nó cần một nơi lưu trữ, và một số người chỉ ra rằng có tất cả mọi thứ trong một trang web sẽ khá tiện dụng. Đó là một trang web tĩnh Pelican/Jinja2 đơn giản. Nó đã được cài đặt và chạy tại [dcrcomic.org](https://dcrcomic.org/)
 
-## Physical comics at LABITCONF
+## Truyện tranh sách tại LABITCONF
 
-We made a bunch of physical copies of the first five DCR Comics to share them at LABITCONF, the Latin American Bitcoin and Blockchain Conference that takes place at Montevideo, Uruguay. We'll try to get the comics to Antonopoulos and other key bitcoin figures.
+Chúng tôi đã tạo ra một loạt các bản cứng của năm DCR Comics đầu tiên để chia sẻ chúng tại LABITCONF, Hội nghị Bitcoin và Blockchain của Mỹ Latinh diễn ra tại Montevideo, Uruguay. Chúng tôi sẽ cố gắng đưa truyện tranh đến Antonopoulos và các số liệu bitcoin quan trọng khác.
 
-## Current explorations
+## Những khám phá hiện tại
 
-**Animation:** Many community members pointed out they would prefer having animated explainer videos. While the focus is on the comics (meaning the topics, the tone, the characters and the grand scheme), we are already exploring animation. The first DCR Comic animated video is on the works. We've chosen the 5th comic, because ninjas. We'll share some sneak peaks as soon as we have something.
+**Hoạt hình:** Nhiều thành viên trong cộng đồng chỉ ra rằng họ thích có các video giải thích hoạt hình. Mặc dù trọng tâm là truyện tranh (có nghĩa là các chủ đề, giai điệu, nhân vật và sơ đồ lớn), chúng tôi đã khám phá hoạt hình. Video hoạt hình DCR Comic đầu tiên đang hoạt động. Chúng tôi đã chọn truyện tranh thứ 5, bởi vì ninja. Chúng tôi sẽ chia sẻ một số thông tin ngay khi chúng tôi có thứ gì đó.
 
-**3D:** Nachito is diving into 3D models. We may have a 3D Stakey model soon. This opens up the door for other kind of projects. Possibilities are huge, but so is the workload. We need to get creative to get as much as possible out of 3D or it won't be cost-effective.
+**3D:** Nachito đang lặn vào các mô hình 3D. Chúng tôi có thể có một mô hình 3D Stakey sớm. Điều này mở ra cánh cửa cho các loại dự án khác. Khả năng là rất lớn, nhưng khối lượng công việc cũng vậy. Chúng ta cần sáng tạo để có được càng nhiều càng tốt từ 3D hoặc nó sẽ không hiệu quả về mặt chi phí.
 
-**Interactive tutorial:** After setting up the first version of dcrcomic.org, Pablito is exploring simple web app development to use DCR Comic assets to build and interactive Decred tutorial. Scope will be limited to: reading a simple intro, learning about Decrediton and setting up a wallet.
+**Hướng dẫn tương tác:** Sau khi thiết lập phiên bản đầu tiên của dcrcomic.org, Pablito đang khám phá phát triển ứng dụng web đơn giản để sử dụng tài sản DCR Comic để xây dựng và hướng dẫn Decred tương tác. Phạm vi sẽ được giới hạn ở: đọc phần giới thiệu đơn giản, tìm hiểu về Decrediton và thiết lập ví.
 
-## TLDR
+## TLD
 
-We are happy. Four comics already published and translated. The fifth has ninjas. There are lots of cool pngs at GitHub you can use to post on social media. THE COMIC HAS A NEW WEBSITE. We have printed physical comics for LABITCONF. We are doing some animation, some 3D and figuring out how to develop an interactive Decred tutorial web app.
+Chúng tôi cảm thấy rất hạnh phúc. Bốn truyện tranh đã được xuất bản và dịch. Truyện thứ năm có ninja. Có rất nhiều pngs thú vị tại GitHub bạn có thể sử dụng để đăng lên phương tiện truyền thông xã hội. COMIC ĐÃ CÓ TRANG WEB MỚI. Chúng tôi đã in sách truyện cho LABITCONF. Chúng tôi đang thực hiện một số hoạt hình, một số 3D và tìm ra cách phát triển một ứng dụng web hướng dẫn Decred tương tác.
 
 
 
-If you liked having the TLDR heart this.
+Nếu bạn thích có trái tim TLDR này.
 
-If you liked the long update rocket this.
+Nếu bạn thích tên lửa cập nhật dài này.
 
-If you like animations.
+Nếu bạn thích hoạt hình.
 
-If you like 3D.
+Nếu bạn thích 3D.
 
-If you like the interactive tutorial.
+Nếu bạn thích hướng dẫn tương tác.
 
-If you are not on Riot and can't see the emotes, what are you waiting for?
+Nếu bạn không ở trong Riot và không thể thấy các biểu tượng cảm xúc, bạn còn chờ gì nữa?
