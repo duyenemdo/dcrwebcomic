@@ -44,99 +44,99 @@ Những đóng góp khác: [Rasp-berry-cred: kinh nghiệm của tôi khi thiế
 
 Một [GitHub repo](https://github.com/pLabarta/dcrwebcomic) với mỗi truyện tranh xuất  hai tuần một lần và mọi tài sản được sử dụng trong quá trình thực hiện. Chúng tôi cũng sẽ phối hợp các bản dịch, hướng tới việc mở rộng webcomic theo các định dạng mới khi cần và phân phối truyện tranh trên mọi nền tảng truyền thông xã hội mà chúng tôi có thể.
 
-We are planning to publish on [Twitter](https://twitter.com/DCRComic/), [Instagram](https://www.instagram.com/dcrcomic/), [Medium](https://medium.com/dcr-comic), Reddit, messaging platforms like Telegram and Matrix, and region-specific channels like ChainNode (China).
+Chúng tôi đang lên kế hoạch cho ra mắt trên [Twitter](https://twitter.com/DCRComic/), [Instagram](https://www.instagram.com/dcrcomic/), [Medium](https://medium.com/dcr-comic), Reddit, các nền tảng nhắn tin như Telegram và Matrix và các kênh cụ thể theo vùng như ChainNode (Trung Quốc).
 
-We have already developed comics about:
+Chúng tôi đã phát triển truyện tranh về:
 
-- [Politeia proposals](https://raw.githubusercontent.com/pLabarta/dcrwebcomic/master/01%20-%20The%20way%20of%20the%20Contractor/Images/en/comic1.png)
+- [Đề xuất của Politeia](https://raw.githubusercontent.com/pLabarta/dcrwebcomic/master/01%20-%20The%20way%20of%20the%20Contractor/Images/en/comic1.png)
 - [Proof-of-Work](https://raw.githubusercontent.com/pLabarta/dcrwebcomic/master/02%20-%20Proof-of-Work%2C%20explained/Images/en/comic2.png)
 - [Decred DEX](https://raw.githubusercontent.com/pLabarta/dcrwebcomic/master/03%20-%20DEX/Images/en/comic3.png)
 
-We will develop several comics explaining issues like:
+Chúng tôi sẽ phát triển một số truyện tranh giải thích các vấn đề như:
 
 - Proof-of-Stake
-- Hybrid PoS/PoW
-- Privacy Features
-- Lightning Network
-- Full-nodes
-- Voting Service Providers
-- Consensus Rules Voting
-- Atomic Swaps
-- Politeia Topics **
+- Lai PoS/PoW
+- Tính năng bảo mật
+- Mạng sét
+- Toàn nút
+- Nhà cung cấp dịch vụ bỏ phiếu
+- Bỏ phiếu quy tắc đồng thuận
+- Hoán đổi nguyên tử
+- Các chủ đề về Politeia **
 
-** We want to develop comics about new proposals and developments while we advance our main goal of bringing to life the Docs.
+** Chúng tôi muốn phát triển truyện tranh về các đề xuất và phát triển mới trong khi chúng tôi thúc đẩy mục tiêu chính của chúng tôi là làm cho các Tài liệu trở nên sống động.
 
-## **How? Webcomic Lifecycle**
+## **Làm sao? Vòng đời của Webcomic**
 
 ![miner-stakey](https://raw.githubusercontent.com/pLabarta/dcrwebcomic/master/Proposal/img/solos-04.png)
 
-We came up with the following life-cycle to make translating and editing the comic more efficient by focusing first on closing the English version and only opening up for translations once it is finished. We included a Feedback & Iteration stage so the whole community can participate in its development, but we frequently share scripts and WIP with the corresponding Matrix channels.
+Chúng tôi đã đưa ra vòng đời sau đây để giúp dịch và chỉnh sửa truyện tranh hiệu quả hơn bằng cách tập trung đầu tiên vào việc đóng phiên bản tiếng Anh và chỉ mở ra để dịch sau khi hoàn thành. Chúng tôi đã bao gồm giai đoạn Phản hồi & Lặp lại để cả cộng đồng có thể tham gia vào quá trình phát triển của nó, nhưng chúng tôi thường xuyên chia sẻ tập lệnh và WIP với các kênh Matrix tương ứng.
 
-1. Voting for topics
-2. Basic scripting / Brainstorming
-3. Storyboarding
-4. English script
-5. Basic design
-6. Feedback & Iteration
-7. Final design
-8. Text translations
-9. AI file translations
-10. Optimized image files
-11. Distribution
+1. Bỏ phiếu cho các chủ đề
+2. Kịch bản cơ bản/Động não
+3. Phân cảnh
+4. Kịch bản tiếng anh
+5. Thiết kế cơ bản
+6. Phản hồi và lặp lại
+7. Thiết kế cuối cùng
+8. Bản dịch văn bản
+9. Bản dịch tệp AI
+10. Tập tin hình ảnh được tối ưu hóa
+11. Phân phối
 
-## **The offer**
+## **Chào hàng**
 
 ![miner-stakey2](https://raw.githubusercontent.com/pLabarta/dcrwebcomic/master/Proposal/img/solos-05.png)
 
-Each webcomic involves research, scripting, pen and paper storyboarding, digital design and polishing, and distribution. While the workload differs from comic to comic, the first three issues could be rounded to:
+Mỗi webcomic liên quan đến nghiên cứu, kịch bản, kịch bản bút và giấy, thiết kế kỹ thuật số và đánh bóng, và phân phối. Trong khi khối lượng công việc khác nhau từ truyện tranh đến truyện tranh, ba vấn đề đầu tiên có thể được gói gọn thành thành:
 
-1. Research: 3h
+1. Nghiên cứu: 3h
 
-2. Scripting: 3h
+2. Kịch bản: 3h
 
-3. Storyboarding: 6h
+3. Lên kịch bản: 6h
 
-4. Digital design: 15h (+Polishing)
+4. Thiết kế kỹ thuật số: 15h (+ Đánh bóng)
 
-5. Feedback & discussion: 3h
+5. Phản hồi & thảo luận: 3h
 
-6. Polishing: 5h
+6. Đánh bóng: 5h
 
-7. Posting on/adapting to social networks: 5h
+7. Đăng bài / thích ứng với mạng xã hội: 5h
 
-   **Total: 40 hours**
+   **Tổng: 40 giờ**
 
-We think it would be reasonable to start by publishing two comics per month (biweekly) for three months. We would get paid after delivering each issue of the comic (~$**1200** per comic). The total cost of this first three months of work would be **$10800**, including the first three comics we have already developed, and the community will get six new DCR Comics in multiple formats, ready for publishing in social media. We could charge the treasury after publishing each comic.
+Chúng tôi nghĩ rằng sẽ rất hợp lý khi bắt đầu bằng cách xuất bản hai truyện tranh mỗi tháng (hai tuần một lần) trong ba tháng. Chúng tôi sẽ được trả tiền sau khi phân phối từng vấn đề của truyện tranh (~$**1200** cho mỗi truyện tranh). Tổng chi phí cho ba tháng làm việc đầu tiên này sẽ là **$10800**,bao gồm ba truyện tranh đầu tiên chúng tôi đã phát triển và cộng đồng sẽ có sáu truyện tranh DCR mới ở nhiều định dạng, sẵn sàng để xuất bản trên phương tiện truyền thông xã hội. Chúng tôi có thể tính phí kho bạc sau khi xuất bản mỗi truyện tranh.
 
-Work schedule and payments:
+Lịch trình làm việc và thanh toán:
 
-- Already developed ($3600):
-  - [Politeia proposals](https://raw.githubusercontent.com/pLabarta/dcrwebcomic/master/01%20-%20The%20way%20of%20the%20Contractor/Images/en/comic1.png) - $1200
+- Đã được phát triển ($3600):
+  - [Đề xuất của Politeia](https://raw.githubusercontent.com/pLabarta/dcrwebcomic/master/01%20-%20The%20way%20of%20the%20Contractor/Images/en/comic1.png) - $1200
   - [Proof-of-Work](https://raw.githubusercontent.com/pLabarta/dcrwebcomic/master/02%20-%20Proof-of-Work%2C%20explained/Images/en/comic2.png) - $1200
   - [Decred DEX](https://raw.githubusercontent.com/pLabarta/dcrwebcomic/master/03%20-%20DEX/Images/en/comic3.png) - $1200
-- First month ($2400):
+- Tháng đầu ($2400):
   - Proof-of-Stake - $1200
-  - Privacy features - $1200
-- Second month ($2400):
-  - Hybrid PoS/PoW - $1200
-  - Atomic Swaps - $1200
-- Third month ($2400):
-  - Lightning Network - $1200
+  - Tính năng bảo mật - $1200
+- Tháng thứ 2 ($2400):
+  - Lai PoS/PoW - $1200
+  - Hoán đổi nguyên tử - $1200
+- Tháng thứ ba ($2400):
+  - Mạng Lighting - $1200
   - DCR Time - $1200
 
-**Total cost: $10800 ($3600 for previous comics + $7200 for the new ones)**
+**Tổng tiền: $10800 ($3600 cho truyện tranh trước + $7200 cho truyện mới)**
 
-Once we generate enough assets, we could expand the project with new proposals to include animation/video editing!
-
-
+Khi chúng tôi tạo đủ tài sản, chúng tôi có thể mở rộng dự án với các đề xuất mới để bao gồm chỉnh sửa hoạt hình/video!
 
 
 
-# DCR Comics
 
-Take a look at the comics!
 
-### The Decentralized Exchange
+# Truyện tranh DCR
+
+Hãy xem truyện tranh!
+
+### Sàn giao dịch phi tập trung
 
 ![dcr-comic-3-dex](https://raw.githubusercontent.com/pLabarta/dcrwebcomic/master/03%20-%20DEX/Images/en/comic3.png)
 
